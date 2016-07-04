@@ -1,0 +1,55 @@
+{
+  "website":{
+    "title": "Jack's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am a Software Developer with experience in developing Java & Web Applications and websites. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
+    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.",
+    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
+  },
+  "career":{
+    "my_career": "My Career",
+    "nextcode": "Caterpillar Inc.",
+    "nextcode_des": "Developed Websites for Caterpillar’s Product-to-Customer(P2C) Finance Portal using HTML5, CSS3, JavaScript & JQuery, Implemented RESTful Web services in the framework with JQuery and JavaScript as client",
+    "nextcode_date": "May. 2015",
+    "nextcode_job": "Java, Front End Web and Portal Developer",
+    "netease": "The Vitamin Shoppe",
+    "netease_des": "Designed and implemented BI (Business Intelligence) dashboard which used Ajax, HTML5, CSS3, JavaScript and JQuery deployed on Amazon EC2 servers. Amazon ESB, and S3 were utilized as the storage space",
+    "netease_date": "Feb 2015",
+    "netease_job": "Front End Developer and UX/UI Developer",
+    "ucloud": "Urban Outfitters",
+    "ucloud_des": "Devised solutions to expedite the procurement of required data for unique website architectures comprised of X/HTML, JavaScript, jQuery, CSS, and AJAX",
+    "ucloud_date": "Jan. 2015",
+    "ucloud_job": "Software and Web Developer",
+    "college": "Graduation",
+    "college_des": "At July 2014, I graduated from NYU and started my IT technology tour.",
+    "college_date": "Jul. 2014",
+    "college_job": "Student"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "contact":{
+    "contact_me": "Contact Me",
+    "email": "Send me mail",
+    "follow": "Or through the following ways"
+  }
+
+}
